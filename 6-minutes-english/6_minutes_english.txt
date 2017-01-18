@@ -5,3 +5,20 @@ http://linkengpark.com/6-minute-english-42-languages/
 
 http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-141127
 #	wget http://downloads.bbc.co.uk/learningenglish/features/6min/141127_6min_sharingeconomy_download.mp3
+
+http://www.bbc.co.uk/worldservice/learningenglish/general/sixminute/2011/12/111207_6min_english_online_shopping_page.shtml
+#       wget http://http-ws.bbc.co.uk.edgesuite.net/mp3/learningenglish/2011/12/bbc_6_minute_online_shopping_for_web_111206_6min_english_onilne_shopping_audio_au_bb.mp3	
+
+http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-170105
+# 	wget http://downloads.bbc.co.uk/learningenglish/features/6min/170105_6min_english_driving_download.mp3 
+
+
+http://www.bbc.co.uk/worldservice/learningenglish/general/sixminute/2014/04/140417_6min_smog.shtml
+# 	wget http://http-ws.bbc.co.uk.edgesuite.net/mp3/learningenglish/2014/04/140417_6min_smog_for_web_140417_6min_smog_audio_au_bb.mp3
+
+
+# Global Warming
+http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-160915
+http://downloads.bbc.co.uk/learningenglish/features/6min/160915_6min_english_climate_change_download.mp3
+
+Countries like Bangladesh have developed homegrown technologies – which means produced locally – such as harvesting rainwater from their rooftops.
