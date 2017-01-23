@@ -24,3 +24,7 @@ Research based – these are adaptive learning materials, using concepts from re
 # get in the way, never once
 Cockburn engaged in a flight of fancy, never once allowing facts to get in the way. 
 科伯恩一直在想入非非，从不曾考虑现实状况。
+
+
+# deserve
+Honestly, if you're not willing to sound stupid, you don't deserve to be in love.
