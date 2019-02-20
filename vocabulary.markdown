@@ -28,3 +28,29 @@ Cockburn engaged in a flight of fancy, never once allowing facts to get in the w
 
 # deserve
 Honestly, if you're not willing to sound stupid, you don't deserve to be in love.
+
+# make ends meet.
+
+
+
+#  sense of history
+ Do you want to live somewhere with a rich culture and a sense of history, or do you prefer more modern, international cities?
+ 
+ # There’s not much nightlife and sometimes it feels a bit cut off from the wider world.
+ 
+ # There’s not much for young people to do.
+ 
+ # Paris has changed a lot in the last twenty years. It’s much more international and much more expensive than it used to be. However, the soul of the city is still there. Paris will always be Paris!
+ 
+ # Shanghai is almost unrecognisable compared to twenty or thirty years ago. The city has expanded so much, both physically and economically. It’s amazing when you see old photos of the city; things are so different now!
+ 
+ #  I think partly because the city’s history is a mix of European and Russian influences.
+ 
+ # The city hasn’t changed much in the last twenty years, although there are certainly more and more tourists these days!
+ 
+ 
+ 
+ 
+ 
+ 
+ 
